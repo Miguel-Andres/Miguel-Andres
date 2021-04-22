@@ -11,7 +11,7 @@
 - 📫 How to reach me: 🔗https://www.linkedin.com/in/miguelandres-sp/ ...
  
 ## Ask me about :computer: 
-- *The FullStack in Progress*
+- **The FullStack in Progress**
 	- Javascript ❤️❤️❤️❤️❤️
 	- Node.js    ❤️❤️❤️❤️❤️
 	- React.js   ❤️❤️❤️❤️❤️
