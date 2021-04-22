@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap	-
-	- React with [s
+	- Bootstrap 	
+	- React.js [Style-component,context,Hook]
 	- MySql, NoSql
 	- FireBase
-  - NodeJs  
+  	- NodeJs  
 
 
 
