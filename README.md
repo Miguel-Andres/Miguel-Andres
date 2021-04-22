@@ -2,14 +2,14 @@
 
 
 
-Here are some ideas to get you started:
+##Topicality
 
 - 🔭 I’m currently working on get my first job ...
 - 🌱 I’m currently learning JavaScript Advanced, Test and ReactJs ...-
 - 🤔 I'am looking for challenge recommendations from companies to study ...
 
 - 📫 How to reach me: 🔗https://www.linkedin.com/in/miguelandres-sp/ ...
-- 
+ 
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Javascript ❤️❤️❤️❤️❤️
