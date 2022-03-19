@@ -20,8 +20,8 @@
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap 	
-	- React.js [Style-component,context,Hook]
+	- ChakraUi  :white_check_mark: 	
+	- React.js [context,Hook]
 	- MySql, NoSql
 	- FireBase
   	- NodeJs  
