@@ -21,9 +21,10 @@
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- ChakraUi  :white_check_mark: 	
-	- React.js [context,Hook]
+	- React.js [context]
 	- MySql, NoSql
 	- FireBase
+	- GraphQL
   	- NodeJs  
 
 
