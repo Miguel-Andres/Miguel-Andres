@@ -15,7 +15,7 @@
 	- Javascript ❤️❤️❤️❤️❤️
 	- Node.js    ❤️❤️❤️❤️❤️
 	- React.js   ❤️❤️❤️❤️❤️
-	- TypeScrip  ❤️❤️❤️❤️❤️
+	- TypeScript  ❤️❤️❤️❤️❤️
 
 <img align="right" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
 
