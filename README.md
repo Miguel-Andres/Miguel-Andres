@@ -5,7 +5,7 @@
 ## Topicality
 
 - 🔭 I’m currently working on get my first job ...
-- 🌱 I’m currently learning JavaScript Advanced,TypeScript, Test and ReactJs ...-
+- 🌱 I’m currently learning JavaScript Advanced, Test and Next.js...-
 - 🤔 I'am looking for challenge recommendations from companies to study ...
 
 - 📫 How to reach me: 🔗https://www.linkedin.com/in/miguelandres-sp/ ...
@@ -15,17 +15,19 @@
 	- Javascript ❤️❤️❤️❤️❤️
 	- Node.js    ❤️❤️❤️❤️❤️
 	- React.js   ❤️❤️❤️❤️❤️
+	- TypeScrip  ❤️❤️❤️❤️❤️
 
 <img align="right" src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- ChakraUi  :white_check_mark: 	
-	- React.js [context]
-	- MySql, NoSql
+	- React.js - Next.js
+	- MySql, NoSql ,Postgres
 	- FireBase
 	- GraphQL
-  	- NodeJs  
+  	- NodeJs - NestJs
+	- Docker
 
 
 
