@@ -23,8 +23,7 @@
 	- HTML, CSS and Javascript :white_check_mark:
 	- ChakraUi  :white_check_mark: 	
 	- React.js - Next.js
-	- MySql, NoSql ,Postgres
-	- FireBase
+	- MySql, NoSql ,Postgres	
 	- GraphQL
   	- NodeJs - NestJs
 	- Docker
