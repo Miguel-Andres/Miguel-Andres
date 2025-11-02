@@ -87,6 +87,3 @@ Want to chat about projects, share ideas, or just connect?
 
 ---
 
-<p align="center">
-  <i>Aprendiendo, construyendo y mejorando cada día 🚀</i>
-</p>
